@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/Pgd8RHs/89223832-dd796380-d5ad-11ea-9a39-fc852538ca13.png" width="150" >
+  <img src="https://i.ibb.co/Pgd8RHs/89223832-dd796380-d5ad-11ea-9a39-fc852538ca13.png" width="1000" >
 </p>
 
 ## 📋 Índice
