@@ -37,13 +37,13 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 # Clonar o repositório
 git clone https://github.com/giow/proffy-nlw
 
-# Entrar no diretório
+# Entrar no projeto
 cd proffy-nlw
 
 # Baixar as dependências
 npm i
 
-# Executar o servidor
+# Ligar a aplicação
 npm run dev
 ```
 
